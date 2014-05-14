@@ -24,10 +24,8 @@ The needed arduino sketch for the controller can be found at [selfieshirt-contro
 The server will take care of device registration, twitter polling, image extraction and sending push notifications. You can find it at [selfieshirt-server](https://github.com/syzygy-ffm/selfieshirt-server). For those of you that have no access to a server we provide a demo server at [http://selfieshirt.cloudapp.net]()
 
 ### iOS application
-The iOS application that connects the server to the shirt is located at [selfieshirt-ios](https://github.com/syzygy-ffm/selfieshirt-ios). If you have no access to a mac or don't want to buy an apple developer account to compile your own, we provide you a precompiled version which is available at [https://syzygyffm.blob.core.windows.net/selfieshirt/index.html](https://syzygyffm.blob.core.windows.net/selfieshirt/index.html). Just open this url in your mobile browser and install it.
-
+The iOS application that connects the server to the shirt is located at [selfieshirt-ios](https://github.com/syzygy-ffm/selfieshirt-ios). If you have no access to a mac or don't want to buy an apple developer account to compile your own, we provide you a [precompiled version](https://syzygyffm.blob.core.windows.net/selfieshirt/index.html). Just open this url in your mobile browser and install it.
 
 ## Share it!
-
 Build your own Shirt. Create, imitate, improvise, play around. And don’t forget to share: #SelfieShirt  
 If you have any questions see [syzygy.de/selfieshirt](http://syzygy.de/selfieshirt) for more details and contact information.
